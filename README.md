@@ -1,2 +1,3 @@
-# -inventory-system-
-Simple Inventory System to track items in a store or collection
+# -student information system-
+A Student Information System (SIS) is a centralized platform for managing and tracking students' academic, personal, and administrative data.
+
